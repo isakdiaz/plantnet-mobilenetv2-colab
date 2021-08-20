@@ -8,5 +8,6 @@ Images from PlantNet
 ![alt text](https://github.com/isakdiaz/PlantNet_MobileNetV2/blob/main/plantplot1.png)
 
 Dataset Source: https://gitlab.inria.fr/cgarcin/plantnet_dataset
+MobileNetV2 Paper: https://arxiv.org/abs/1801.04381
 
 Also checkout my other project deeplearning-swift-ios which has a native IOS App that I made using this model.
